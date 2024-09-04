@@ -17,4 +17,4 @@ The notebook includes:
 ## Files
 
 - **notebook.ipynb**: Jupyter Notebook containing the complete analysis.
-- **Data Files**: The necessary datasets used for this analysis (not included in this repository but can be downloaded from the specified sources in the notebook).
+- **Data Files**: The necessary datasets used for this analysis.
